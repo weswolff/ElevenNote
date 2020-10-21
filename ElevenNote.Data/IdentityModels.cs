@@ -34,6 +34,8 @@ namespace ElevenNote.Data
         }
 
             public DbSet<Note> Notes { get; set; }
+            public DbSet<Category> Categories { get; set; } // The ALTER TABLE statement conflicted with the FOREIGN KEY constraint "FK_dbo.Note_dbo.Category_CustomerId". 
+                                                            // The conflict occurred in database "ElevenNote", table "dbo.Category", column 'CategoryId'.
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
