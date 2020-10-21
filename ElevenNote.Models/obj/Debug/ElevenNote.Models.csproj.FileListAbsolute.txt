@@ -14,3 +14,6 @@ C:\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.
 C:\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 C:\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Data.dll
+C:\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Data.pdb
+C:\ElevenFiftyProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Data.dll.config
